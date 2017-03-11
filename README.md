@@ -1,0 +1,2 @@
+# opencvT
+opencv Ubuntu QTcreator
